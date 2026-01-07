@@ -1,4 +1,4 @@
-# Grad Web — Exhibition Website  🖥️
+# Exhibition Website  📁
 **Digital Graduation Exhibition Platform (2024)**
 
 ## Overview
